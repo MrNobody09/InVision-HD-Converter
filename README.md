@@ -1,7 +1,3 @@
-Certainly! Below is a detailed documentation for the provided code, explaining each step clearly and the inpainting technique used.
-
----
-
 # Video Conversion with Inpainting - Code Documentation
 
 This documentation provides a detailed explanation of the Python code for video conversion with inpainting. The code utilizes the OpenCV library to convert Standard Definition (SD) resolution videos to High Definition (HD) resolution, filling in the left side of each frame using inpainting.
